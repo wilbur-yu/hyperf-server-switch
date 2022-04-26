@@ -14,11 +14,10 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "HyperfTest\\": "tests"
         }
     },
     "require": {
-        "php": ">=7.3",
+        "php": ">=8.0",
         "hyperf/di": "^2.0",
         "hyperf/command": "^2.0",
         "hyperf/contract": "^2.0",
